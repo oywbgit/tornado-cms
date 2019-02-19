@@ -11,4 +11,4 @@ Handher中使用的函数在PARAMETERS = init()中完成初始化
 
 # 交流群
 * qq群号：940742391<br/>
-![交流群](https://github.com/oywbgit/tornado-cms/blob/master/doc/%E4%BA%A4%E6%B5%81%E7%BE%A4/1550562147812.png)
+![交流群](doc/%E4%BA%A4%E6%B5%81%E7%BE%A4/1550562147812.png)
