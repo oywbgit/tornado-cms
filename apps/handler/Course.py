@@ -1,5 +1,6 @@
 # -*- coding=utf-8 -*-
 __author__ = 'ouyangweibiao'
+__mail__ = 'iishappyabu@163.com'
 import tornado.web
 
 class CourseHandler(tornado.web.RequestHandler):
