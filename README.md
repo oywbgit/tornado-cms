@@ -9,5 +9,6 @@ Handher中使用的函数在PARAMETERS = init()中完成初始化
 * 此架构装配了文件处理FileHandher
 * 把要使用的静态文件放到public目录即可访问
 
-qq交流群：940742391
+# 交流群
+* qq群号：940742391<br/>
 ![交流群](https://github.com/oywbgit/tornado-cms/blob/master/doc/%E4%BA%A4%E6%B5%81%E7%BE%A4/1550562147812.png)
