@@ -1,6 +1,7 @@
 # -*- coding=utf-8 -*-
 __author__ = 'ouyangweibiao'
 __mail__ = 'iishappyabu@163.com'
+
 # 创建视图类
 from tornado.web import Application, RequestHandler
 

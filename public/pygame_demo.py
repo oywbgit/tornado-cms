@@ -3,6 +3,7 @@
 __author__ = 'ouyangweibiao'
 __mail__ = 'iishappyabu@163.com'
 
+
 import pygame
 from pygame.locals import QUIT
 from sys import exit

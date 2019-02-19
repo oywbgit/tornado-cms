@@ -2,6 +2,7 @@
 __author__ = 'ouyangweibiao'
 __mail__ = 'iishappyabu@163.com'
 
+
 from celery import Celery
 from tornado.httpclient import HTTPClient
 app = Celery('tasks')

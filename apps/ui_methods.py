@@ -2,5 +2,6 @@
 __author__ = 'ouyangweibiao'
 __mail__ = 'iishappyabu@163.com'
 
+
 def tab(self):
     return 'UIMethod'

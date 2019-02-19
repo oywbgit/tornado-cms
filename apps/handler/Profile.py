@@ -2,6 +2,7 @@
 __author__ = 'ouyangweibiao'
 __mail__ = 'iishappyabu@163.com'
 
+
 from tornado.web import RequestHandler
 
 class ProfileHandler(RequestHandler):
