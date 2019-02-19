@@ -1,0 +1,23 @@
+start nginx        启动nginx
+tasklist /fi "imagename eq nginx.exe"    查看nginx进程
+nginx -s quit      安全关闭
+nginx -s stop      强制关闭
+nginx -s reload    改变配置文件时，重启nginx工作进程，使配置生效
+nginx -s reopen    打开日志文件
+nginx -v           查看版本
+nginx -h           查看帮助信息
+
+特别提醒！！！
+        在说Nginx配置文件之前，特别提醒一下，我踩到的一个坑。
+
+        Nginx在Windows系统下 查看/修改 conf配置文件
+
+        千万不要用记事本打开！
+
+        千万不要用记事本打开！
+
+        千万不要用记事本打开！碰都别碰！
+
+因为在Windows系统下，记事本打开会用 utf-8-Bom 格式打开文件，即使你的文件是 utf-8 的，他也会自以为是的给你加上Bom头，以他的格式重新编码存储，这种格式将破环nginx配置文件，虽然看上去内容没有任何改变，但重要的编码却被他偷梁换柱了，将导致nginx启动异常。
+
+https://blog.csdn.net/Yl12fh/article/details/81026391

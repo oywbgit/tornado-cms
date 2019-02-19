@@ -1,0 +1,20 @@
+{% extends 'base.html'%}
+
+{% block CSS %}
+     <link href='{{static_url("common.css")}}' rel="stylesheet" />
+{% end %}
+
+{% block RenderBody %}
+    <div id="my_div">
+        <ul>
+            {% for item in list_info %}
+                <li>{{item}}</li>
+            {% end %}
+        </ul>
+    </div>
+
+{% end %}
+
+{% block JavaScript %}
+
+{% end %}

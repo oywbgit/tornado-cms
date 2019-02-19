@@ -1,0 +1,19 @@
+{% extends '../plates/layout.html' %}
+
+{% block body %}
+    <h1>Index Page</h1>
+    <a>Index Page</a>
+    {% include '../plates/form.html'%}
+{%  end  %}
+
+{% block css %}
+    <style>
+        a{color:black;}
+    </style>
+{%  end  %}
+
+{% block js %}
+    <script>
+        alert("Index page.");
+    </script>
+{%  end  %}

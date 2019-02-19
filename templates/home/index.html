@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+    <style>
+        .pages a{
+            display:inline-block;
+            padding:5px;
+            margin:5px;
+            background-color:yellow;
+        }
+        .pages .active {background-color:red;}
+    </style>
+</head>
+<body>
+    <h1>输入数据</h1>
+    <form action="/index.phtml?page/{{ current_page }}" method="post">
+        <input type="text" name="name">
+        <input type="text" name="age">
+        <input type="submit" value="提交">
+    </form>
+    <h1>展示数据</h1>
+    <table border="1">
+        <th>
+            <tr>
+                <td>姓名</td>
+                <td>年龄</td>
+            </tr>
+        </th>
+        <tbody>
+            {% for item in info_list %}
+            <tr>
+                <!--raw行就是一个XSS跨站脚本攻击的一个例子，本来tornado内部会对js脚本默认进行处理，避免脚本攻击‘-->
+                <!--如果加上raw的话，就会以输入的格式进行处理-->
+                <!--如：输入<script>alert(1);</script>-->
+                <!--提交后，渲染页面时，遇到这一行就会执行该代码-->
+                <!--使用toranado的默认方式就好-->
+                <!--<td>{% raw item['name'] %}</td>-->
+                <td>{{ item['name'] }}</td>
+                <td>{{ item['age'] }}</td>
+            </tr>
+            {% end %}
+        </tbody>
+    </table>
+    <div class="pages">
+        {% raw page_nums %}
+    </div>
+</body>
+</html>
