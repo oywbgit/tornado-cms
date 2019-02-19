@@ -8,6 +8,3 @@ Handher中使用的函数在PARAMETERS = init()中完成初始化
 # 静态文件处理
 * 此架构装配了文件处理FileHandher
 * 把要使用的静态文件放到public目录即可访问
-
-
-case是练习目录，
