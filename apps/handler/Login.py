@@ -21,7 +21,7 @@ class LoginHandler(BaseHandler):
         # code =self.get_argument('code')
         # check_code = self.session['CheckCode']
         # if username =="oywb" and password == "123" and code.upper() == check_code.upper():
-        if username =="oywb" and password == "123" :
+        if username =="admin" and password == "admin" :
             self.write("登录成功")
             self.set_cookie('login_xsrf',_xsrf)
             self.set_cookie('username',username)
