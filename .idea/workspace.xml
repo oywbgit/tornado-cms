@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d92ea8-3760-4771-856c-3da19847f7b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rtornado$db.coverage" NAME="db Coverage Results" MODIFIED="1548208657499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/rtornado$t_1.coverage" NAME="t_1 Coverage Results" MODIFIED="1548048863459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/rtornado$tasks.coverage" NAME="tasks Coverage Results" MODIFIED="1548041457114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/rtornado$db_test.coverage" NAME="db_test Coverage Results" MODIFIED="1548210148847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$urls.coverage" NAME="urls Coverage Results" MODIFIED="1548055076501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/rtornado$pytest_in_test_ttf_py.coverage" NAME="pytest in test_ttf.py Coverage Results" MODIFIED="1548382706516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$settings.coverage" NAME="settings Coverage Results" MODIFIED="1548152719835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/rtornado$facebook.coverage" NAME="facebook Coverage Results" MODIFIED="1548037520469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$tff_demo.coverage" NAME="tff_demo Coverage Results" MODIFIED="1548241631535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$Handlers__1_.coverage" NAME="Handlers (1) Coverage Results" MODIFIED="1548045022753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps" />
+    <SUITE FILE_PATH="coverage/rtornado$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1548042429927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/papa" />
+    <SUITE FILE_PATH="coverage/rtornado$hello_errors.coverage" NAME="hello-errors Coverage Results" MODIFIED="1547803824854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$a.coverage" NAME="a Coverage Results" MODIFIED="1548038360989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scapy" />
+    <SUITE FILE_PATH="coverage/rtornado$pygame_demo.coverage" NAME="pygame_demo Coverage Results" MODIFIED="1548296707594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/rtornado$redis_demo.coverage" NAME="redis-demo Coverage Results" MODIFIED="1548743298201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/rtornado$t.coverage" NAME="t Coverage Results" MODIFIED="1548222120394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$codecs.coverage" NAME="codecs Coverage Results" MODIFIED="1548051081816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/software/Anaconda3/Lib" />
+    <SUITE FILE_PATH="coverage/rtornado$ti.coverage" NAME="ti Coverage Results" MODIFIED="1548061974619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$t_3.coverage" NAME="t_3 Coverage Results" MODIFIED="1548309177176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$config.coverage" NAME="config Coverage Results" MODIFIED="1548832723424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/rtornado$rqd.coverage" NAME="rqd Coverage Results" MODIFIED="1548061196484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$helper.coverage" NAME="helper Coverage Results" MODIFIED="1548152318431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/rtornado$main.coverage" NAME="main Coverage Results" MODIFIED="1561718344406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$spider.coverage" NAME="spider Coverage Results" MODIFIED="1548042293160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/rtornado$endwith.coverage" NAME="endwith Coverage Results" MODIFIED="1548301074071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/rtornado$session_test.coverage" NAME="session_test Coverage Results" MODIFIED="1548320236615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$url_main.coverage" NAME="url_main Coverage Results" MODIFIED="1548056256918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$demo.coverage" NAME="demo Coverage Results" MODIFIED="1548063003665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$Handlers.coverage" NAME="Handlers Coverage Results" MODIFIED="1548044593587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/rtornado$tornado.coverage" NAME="tornado Coverage Results" MODIFIED="1550215719073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$poemmaker.coverage" NAME="poemmaker Coverage Results" MODIFIED="1548058777591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$logging.coverage" NAME="logging Coverage Results" MODIFIED="1548303050701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/rtornado$start.coverage" NAME="start Coverage Results" MODIFIED="1548380870731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$tff_read.coverage" NAME="tff_read Coverage Results" MODIFIED="1548241438312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$initHandlers.coverage" NAME="initHandlers Coverage Results" MODIFIED="1548051329252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps" />
+    <SUITE FILE_PATH="coverage/rtornado$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1548055420309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/rtornado$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1548121768343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$test.coverage" NAME="test Coverage Results" MODIFIED="1548383624641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$pysnmp_test.coverage" NAME="pysnmp_test Coverage Results" MODIFIED="1548381692919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rtornado$t_2.coverage" NAME="t_2 Coverage Results" MODIFIED="1548743379528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/rtornado$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1549015686711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>REDIS</find>
+      <find>mysql</find>
+      <find>sett</find>
+      <find>SETTINGS</find>
+      <find>db</find>
+      <find>config</find>
+      <find>BASE_DIR</find>
+      <find>fr</find>
+      <find>logger</find>
+      <find>log</find>
+      <find>url()</find>
+      <find>url(../images/icon.png)</find>
+      <find>body</find>
+      <find>iframe</find>
+      <find>ui</find>
+      <find>MyApplication</find>
+      <find>ui_</find>
+      <find>gqshijian</find>
+      <find>url() 0 0 no-repeat;</find>
+      <find>　　</find>
+      <find>markdown</find>
+      <find>print</find>
+      <find>frame</find>
+      <find>page-content</find>
+      <find>ui_modules</find>
+      <find>gen.coroutine</find>
+      <find>coroutine</find>
+      <find>index</find>
+      <find>欢迎管理员</find>
+      <find>qq</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>Settings</replace>
+      <replace>url('../images/bg.png')</replace>
+      <replace />
+      <replace>0 0 no-repeat;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/session_test.py" />
+        <option value="$PROJECT_DIR$/apps/libs/system.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/pysnmp_test.py" />
+        <option value="$PROJECT_DIR$/test_ttf.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/apps/libs/RUtils.py" />
+        <option value="$PROJECT_DIR$/config/KikiPool.py" />
+        <option value="$PROJECT_DIR$/apps/utils/db.py" />
+        <option value="$PROJECT_DIR$/case/redis-demo.py" />
+        <option value="$PROJECT_DIR$/case/t_2.py" />
+        <option value="$PROJECT_DIR$/templates/inc_header.html" />
+        <option value="$PROJECT_DIR$/templates/header_left.html" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/utils/logger.py" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/apps/handler/File.py" />
+        <option value="$PROJECT_DIR$/public/static/css/xadmin.css" />
+        <option value="$PROJECT_DIR$/apps/models/top_methods.py" />
+        <option value="$PROJECT_DIR$/apps/models/ui_methods.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/entry.html" />
+        <option value="$PROJECT_DIR$/apps/Home.py" />
+        <option value="$PROJECT_DIR$/apps/handler/Home.py" />
+        <option value="$PROJECT_DIR$/apps/handler/Entry.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/case/demo/start.py" />
+        <option value="$PROJECT_DIR$/case/demo/start1.py" />
+        <option value="$PROJECT_DIR$/case/demo/static/common.css" />
+        <option value="$PROJECT_DIR$/case/demo/templates/base.html" />
+        <option value="$PROJECT_DIR$/case/demo/templates/index.html" />
+        <option value="$PROJECT_DIR$/case/demo/ui_methods.py" />
+        <option value="$PROJECT_DIR$/case/demo/ui_modules.py" />
+        <option value="$PROJECT_DIR$/case/demo/s1.py" />
+        <option value="$PROJECT_DIR$/case/demo/templates/indexx.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/case/demo1.py" />
+        <option value="$PROJECT_DIR$/apps/handler/Index.py" />
+        <option value="$PROJECT_DIR$/apps/handler/Welcome.py" />
+        <option value="$PROJECT_DIR$/public/css/xadmin.css" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/welcome.html" />
+        <option value="$PROJECT_DIR$/templates/login1.html" />
+        <option value="$PROJECT_DIR$/apps/uimethods.py" />
+        <option value="$PROJECT_DIR$/config/config.py" />
+        <option value="$PROJECT_DIR$/apps/handler/My404.py" />
+        <option value="$PROJECT_DIR$/apps/uimodules.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/apps/handler/Login.py" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/welcome.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="232" />
+    <option name="y" value="41" />
+    <option name="width" value="1050" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tornado-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tornado-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\web\rtornado\public" />
+      <recent name="E:\python\web\rtornado\templates" />
+      <recent name="E:\python\web\rtornado\case\demo\templates" />
+      <recent name="E:\python\web\rtornado\apps\handler" />
+      <recent name="E:\python\web\rtornado\public\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\web\rtornado\apps\handler" />
+      <recent name="E:\python\web\rtornado\apps" />
+      <recent name="E:\python\web\rtornado\case" />
+      <recent name="E:\python\web\rtornado\public" />
+      <recent name="E:\python\web\rtornado\public\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="rtornado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d92ea8-3760-4771-856c-3da19847f7b1" name="Default Changelist" comment="" />
+      <created>1547803684708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547803684708</updated>
+      <workItem from="1547803688008" duration="2921000" />
+      <workItem from="1548036462649" duration="111373000" />
+      <workItem from="1548653878169" duration="79750000" />
+      <workItem from="1549849063653" duration="8097000" />
+      <workItem from="1550213201374" duration="2690000" />
+      <workItem from="1550547707387" duration="1800000" />
+      <workItem from="1551344408887" duration="605000" />
+      <workItem from="1552457684212" duration="742000" />
+      <workItem from="1561718238570" duration="1731000" />
+      <workItem from="1573093313113" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_ttf_py - 2019.01.25 at 10h 18m 15s.xml">
+      <configuration name="pytest in test_ttf.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_ttf_py - 2019.01.25 at 10h 18m 27s.xml">
+      <configuration name="pytest in test_ttf.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="210154000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/initHandlers.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/initHandlers.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/KikiPool.py" />
+    <entry file="file://$PROJECT_DIR$/apps/utils/db.py" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/File.py" />
+    <entry file="file://$PROJECT_DIR$/public/static/css/font.css" />
+    <entry file="file://$PROJECT_DIR$/public/static/css/xadmin.css" />
+    <entry file="file://$PROJECT_DIR$/templates/entry.html" />
+    <entry file="file://$PROJECT_DIR$/case/home.py" />
+    <entry file="file://$PROJECT_DIR$/apps/libs/RUtils.py" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Base.py" />
+    <entry file="file://$PROJECT_DIR$/templates/home.html" />
+    <entry file="file://$PROJECT_DIR$/apps/models/ui_methods.py" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Entry.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/start.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/start1.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/static/common.css" />
+    <entry file="file://$PROJECT_DIR$/case/demo/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/case/demo/templates/home.html" />
+    <entry file="file://$PROJECT_DIR$/case/demo/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/case/demo/ui_methods.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/ui_modules.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/templates/indexx.html" />
+    <entry file="file://$PROJECT_DIR$/templates/demo.html" />
+    <entry file="file://$PROJECT_DIR$/public/images/icon.png" />
+    <entry file="file://$PROJECT_DIR$/apps/ui_modules.py" />
+    <entry file="file://$PROJECT_DIR$/apps/ui_methods.py" />
+    <entry file="file://$PROJECT_DIR$/case/demo/s1.py" />
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/tornado/web.py" />
+    <entry file="file://$PROJECT_DIR$/templates/header_left.html" />
+    <entry file="file://$PROJECT_DIR$/templates/inc_header.html" />
+    <entry file="file://$PROJECT_DIR$/case/demo1.py" />
+    <entry file="file://$PROJECT_DIR$/public/css/font.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/xadmin.css" />
+    <entry file="file://$PROJECT_DIR$/templates/welcome.html" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Home.py" />
+    <entry file="file://$PROJECT_DIR$/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Welcome.py" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/My404.py" />
+    <entry file="file://$PROJECT_DIR$/_utils/auth_code.py" />
+    <entry file="file://$PROJECT_DIR$/apps/uimethods.py" />
+    <entry file="file://$PROJECT_DIR$/apps/uimodules.py" />
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/tornado/gen.py" />
+    <entry file="file://$PROJECT_DIR$/templates/login1.html" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Main.py" />
+    <entry file="file://$PROJECT_DIR$/config/config.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Login.py" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/apps/handler/Index.py" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/welcome.html" />
+  </component>
+</project>
