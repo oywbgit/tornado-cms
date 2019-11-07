@@ -1,0 +1,12 @@
+主要是日志的路径设置部分，大家看上面的代码的这一句
+
+tornado.options.define("port", default="8888", help="run on the port", type=int)
+这一句主要是同构options模块设置一个全局变量，后面可以通过tornado.options.options.port的形式去调用，这个实现已经体现在前面的代码中。但是我查的时候都说用上面这种方式实现日志路径的改变：
+
+tornado.options.define("log_file_prefix", default="/tmp/tornado_main.log")
+
+但是试了以后是会报错的：tornado.Options: Options 'log_file_prefix' already defined in ....
+
+因为这几个全局变量是存在与系统中的，如果这样去定义是会起冲突的，要通过下面的方式去修改。
+
+options.log_file_prefix = os.path.join(os.path.dirname(__file__), 'logs/tornado_main.log')

@@ -1,0 +1,11 @@
+tornado的一些常用方法
+
+self.write("hello world")：返回数据，常用于返回json数据。write(json.dumps(data))
+
+self.get_argument('key')：获取前端传递参数，get和post都适用。
+
+self.render("test.html", id=1, name='zhangsan')：返回模板和参数传递。
+
+self.request.body：获取请求对象主题，当post请求参数为json时要用这个方法获取，并通过json.loads()解码。
+
+

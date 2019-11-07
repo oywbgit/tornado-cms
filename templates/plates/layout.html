@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>模板继承</title>
+</head>
+<style>
+    *{color:white;}
+    .pg-header{
+        width:800px;
+        height:200px;
+        background-color:gray;
+    }
+    .pg-content{
+        width:800px;
+        height:500px;
+        background-color:green;
+    }
+    .pg-footer{
+        width:800px;
+        height:100px;
+        background-color:orange;
+    }
+</style>
+        {% block css %}{% end %}
+<body>
+    <div class="pg-header"></div>
+    <div class="pg-content">
+        {% block body %}{% end %}
+    </div>
+    <div class="pg-footer"></div>
+<script> function MainPage(){alert("Layout");}</script>
+{% block js %}{% end %}
+</body>
+</html>
